@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-cnccfp-expense-review",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prépare la revue de libellés de dépenses électorales et rend visibles les rattachements ambigus.",
   "type": "module",
   "license": "MIT",
